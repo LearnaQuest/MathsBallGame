@@ -1,0 +1,5 @@
+obj/
+Temp/
+Logs/
+Not-final-builds/
+.DS_Store
